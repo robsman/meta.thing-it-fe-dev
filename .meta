@@ -1,3 +1,6 @@
 {
- "projects": {}
+  "projects": {
+    "model": "git@github.com:thing-it/thing-it-model-2.git",
+    "portal": "git@github.com:thing-it/thing-it-wizard-portal.git"
+  }
 }
