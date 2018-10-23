@@ -1,0 +1,19 @@
+{
+  "name": "@thing-it/meta.fe-dev",
+  "version": "1.0.0",
+  "description": "FE development meta package",
+  "license": "UNLICENSED",
+  "private": true,
+  "author": "robsman",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "meta-npm": "0.0.28"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robsman/meta.thing-it-fe-dev.git"
+  },
+  "homepage": "https://github.com/robsman/meta.thing-it-fe-dev#readme"
+}
