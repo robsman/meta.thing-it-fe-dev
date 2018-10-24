@@ -1,7 +1,7 @@
 {
   "projects": {
+    "lib-model": "git@github.com:thing-it/thing-it-model-2.git",
     "mobile-app": "git@github.com:thing-it/thing-it-mobile-2.git",
-    "model": "git@github.com:thing-it/thing-it-model-2.git",
-    "portal": "git@github.com:thing-it/thing-it-wizard-portal.git"
+    "web-portal": "git@github.com:thing-it/thing-it-wizard-portal.git"
   }
 }
