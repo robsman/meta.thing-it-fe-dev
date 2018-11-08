@@ -1,5 +1,6 @@
 {
   "projects": {
+    "lib-bim": "git@github.com:thing-it/thing-it-ui.git",
     "lib-model": "git@github.com:thing-it/thing-it-model-2.git",
     "mobile-app": "git@github.com:thing-it/thing-it-mobile-2.git",
     "web-portal": "git@github.com:thing-it/thing-it-wizard-portal.git"

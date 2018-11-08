@@ -8,6 +8,7 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
+    "@thing-it/meta-devtools": "0.0.2",
     "meta-npm": "0.0.28"
   },
   "scripts": {},
